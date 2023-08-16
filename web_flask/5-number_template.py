@@ -1,14 +1,5 @@
 #!/usr/bin/python3
-"""
-Module Name:
-1-hbnb_route
-
-Module Description:
-This module contains the routers
-
-Module Attributes:
-- None
-"""
+"""5. Number template"""
 from flask import Flask, render_template
 
 app = Flask(__name__)
